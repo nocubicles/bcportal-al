@@ -1,0 +1,26 @@
+{
+  "id": "86fdd97f-e5f8-41ed-96a5-3926f599b226",
+  "name": "portal",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50130,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://portal.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
